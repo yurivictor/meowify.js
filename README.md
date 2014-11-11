@@ -9,7 +9,7 @@ _What is it good for? Absolutely nothing._
 <script src="meowify.min.js"></script>
 <script>
 var example = meowify( 'I am an example string.' );
-console.log( example );
+console.log( example ); // Mw mw mw meeeeeew meeeeeow.
 </script>
 ```
 
